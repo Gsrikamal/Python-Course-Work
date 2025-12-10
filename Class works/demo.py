@@ -1,0 +1,1 @@
+print("Sample demo file for Class works.")
